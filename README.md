@@ -30,7 +30,7 @@ Software Developer interested in building practical software systems and applyin
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,sql,bash" />
+  <img src="https://skillicons.dev/icons?i=python,js,c,bash" />
 </p>
 
 **Machine Learning & Data Science**
@@ -43,6 +43,12 @@ Software Developer interested in building practical software systems and applyin
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,flask,postgres,mongodb,docker,nginx,linux" />
+</p>
+
+**Security & Penetration Testing**
+`Application security testing · OWASP Top 10 · Web & API penetration testing · Burp Suite · Nmap · ffuf`
+<p>
+  <img src="https://skillicons.dev/icons?i=kali,bash" />
 </p>
 
 **Tools**
@@ -62,8 +68,10 @@ Co-authored research involving gait-based human identification using machine-lea
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=arghya1&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arghya1&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165"
+    src="https://github-stats-extended.vercel.app/api?username=arghya1&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=arghya1&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
