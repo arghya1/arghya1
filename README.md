@@ -36,7 +36,7 @@ Software Developer interested in building practical software systems and applyin
 **Machine Learning & Data Science**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,opencv" />
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,opencv,fastapi" />
 </p>
 
 **Backend & Infrastructure**
