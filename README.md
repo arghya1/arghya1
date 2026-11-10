@@ -1,16 +1,77 @@
 ## Hi there 👋
 
-<!--
-**arghya1/arghya1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Arghya Basu
 
-Here are some ideas to get you started:
+<h3 align="center">Software Developer · Machine Learning · Backend Engineering</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/arghya1">
+    <img src="https://img.shields.io/badge/GitHub-arghya1-181717?style=for-the-badge&logo=github" />
+  </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Software_Engineering-2563EB?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+Software Developer interested in building practical software systems and applying machine learning to real-world problems.
+
+- 🧠 Working with Python, machine learning and model evaluation.
+- ⚙️ Building backend applications and production systems.
+- 🔬 Co-author of a machine learning research paper published by Springer Nature.
+- 🛡️ Background in application security and infrastructure operations.
+- 🚀 Interested in reliable software, model interoperability and engineering efficiency.
+
+## 🛠️ Technologies & Tools
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,sql,bash" />
+</p>
+
+**Machine Learning & Data Science**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,opencv" />
+</p>
+
+**Backend & Infrastructure**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,postgres,mongodb,docker,nginx,linux" />
+</p>
+
+**Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode" />
+</p>
+
+## 🔬 Research & Publication
+
+**Identification of Humans by Using Machine Learning Models on Gait Features**
+
+Springer Nature · April 2023
+
+Co-authored research involving gait-based human identification using machine-learning classifiers, including SVM, KNN and Random Forest.
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=arghya1&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arghya1&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=arghya1&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <i>Building, experimenting, learning — one commit at a time.</i>
+</p>
