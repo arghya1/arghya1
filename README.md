@@ -46,6 +46,7 @@ Software Developer interested in building practical software systems and applyin
 </p>
 
 **Security & Penetration Testing**
+
 `Application security testing · OWASP Top 10 · Web & API penetration testing · Burp Suite · Nmap · ffuf`
 <p>
   <img src="https://skillicons.dev/icons?i=kali,bash" />
