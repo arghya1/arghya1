@@ -60,11 +60,19 @@ Software Developer interested in building practical software systems and applyin
 
 ## 🔬 Research & Publication
 
-**Identification of Humans by Using Machine Learning Models on Gait Features**
+### 📖 [Identification of Humans by Using Machine Learning Models on Gait Features](https://doi.org/10.1007/978-981-19-5191-6_12)
 
-Springer Nature · April 2023
+**Springer Nature · Lecture Notes in Networks and Systems, Vol. 519 · April 2023**
 
-Co-authored research involving gait-based human identification using machine-learning classifiers, including SVM, KNN and Random Forest.
+Co-authored research on gait-based biometric identification using machine learning.
+
+- Implemented and evaluated SVM, KNN and Random Forest classifiers.
+- Worked with gait features including heel-strike angle, toe-off angle and stride angle.
+- Collaborated on a computer-vision-based gait analysis system using OpenCV.
+
+**Authors:** Jayati Ghosh Dastidar, Souvik Samanta, Arghya Basu and Santanu Purkait.
+
+[Read the published chapter →](https://link.springer.com/chapter/10.1007/978-981-19-5191-6_12)
 
 ## 📊 GitHub Statistics
 
